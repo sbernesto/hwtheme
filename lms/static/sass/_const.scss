@@ -1,8 +1,8 @@
 //body background
 $body-bg: #eee;
-$base-color: #df8844;
+$base-color: #6D6E71;
 //settings for header
-$header-bg: #28507d;
+$header-bg: #6D6E71;
 $header-nav-link-color: #fff;
 $header-nav-link-color-hover: lighten($header-nav-link-color, 20%);
 $dropdown-menu-link-color: #009be0;
@@ -29,14 +29,14 @@ $search-button-border: #fff;
 $search-button-color: #95b2d6;
 $search-height: 55px;
 //settings for footer
-$footer-bg: #28507d;
+$footer-bg: #6D6E71;
 $footer-nav-link-color: #fff;
-$footer-nav-link-color-hover: rgba(255,255,255, .8);
+$footer-nav-link-color-hover: #fff;
 $footer-support-text-and-logo: #fff;
-$footer-social-link-bg: #898989;
-$footer-social-link-bg-hover: $base-color;
+$footer-social-link-bg: #fff;
+$footer-social-link-bg-hover: #fff;
 //btn
-$theme-btn-bg: #df8844;
+$theme-btn-bg: #E00109;
 $theme-btn-text-color: #fff;
 $theme-btn-bg-hover: none;
 $theme-btn-shadow: darken($theme-btn-bg, 20%);

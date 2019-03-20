@@ -233,13 +233,13 @@
 				color: #fff !important;
 				text-decoration: none;
 				&:hover {
-					color: $base-color !important;
+					color: #4b4b4b !important;
 				}
 			}
 		}
 	}
 	&_phone {
-		color: $base-color;
+		color: #fff;
 		font-size: 26px;
 		font-weight: bold;
 		margin-left: 10px;
@@ -262,7 +262,7 @@
 		text-decoration: none;
 		margin:  0 0 10px 10px;
 		&:hover {
-			color: $base-color !important;
+			color: #4b4b4b !important;
 		}
 		@media screen and (max-width: 767px) {
 			margin-left: 0;

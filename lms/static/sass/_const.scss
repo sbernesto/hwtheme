@@ -42,10 +42,10 @@ $theme-btn-bg-hover: none;
 $theme-btn-shadow: darken($theme-btn-bg, 20%);
 //btn-white
 $theme-btn-white-bg: #fff;
-$theme-btn-white-border: #df8844;
-$theme-btn-white-text-color: #df8844;
+$theme-btn-white-border: #6D6E71;
+$theme-btn-white-text-color: #6D6E71;
 $theme-btn-white-text-color-hover: #fff;
-$theme-btn-white-bg-hover: #df8844;
+$theme-btn-white-bg-hover: #6D6E71;
 // link color
 $theme-link: #009be0;
 $theme-link-hover: lighten($theme-link, 20%);
@@ -57,14 +57,14 @@ $theme-input-icon: #009be0;
 $theme-user-link: #009be0;
 $theme-user-link-hover: lighten($theme-user-link, 20%);
 //settings fo courses on main page and search
-$courses-border-color: #df8844;
+$courses-border-color: #6D6E71;
 $course-hover-bg: rgba(0, 0, 0, .5);
 $course-link-color: #000;
 $course-bg: #fff;
 //certificate
-$ribbon-corners-color: #cf7833;
-$ribbon-triangle-color: #df8844;
-$certificate-borders-color: #df8844;
+$ribbon-corners-color: #6D6E71;
+$ribbon-triangle-color: #6D6E71;
+$certificate-borders-color: #6D6E71;
 //our overrides for settings we want to change
 $img-path: "../images" !default;
 $font-path: "../fonts" !default;

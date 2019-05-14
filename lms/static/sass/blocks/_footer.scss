@@ -1,7 +1,9 @@
 .wrapper-footer {
 	padding: 50px 0 !important;
 	text-align: center;
-	background: $footer-bg;
+	background: url('../images/bgfooter.jpg') no-repeat 100% 100%;
+	background-size: cover;
+	//background: $footer-bg;
 	color: #fff;
 	margin: 0 !important;
 	box-shadow: none !important;

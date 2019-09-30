@@ -158,10 +158,11 @@
 }
 .inner {
 	max-width: 550px;
+	margin-left: -400px;
 }
 .user-name {
-	border-bottom: 2px solid $certificate-borders-color;
-	color: #3b3e42;
+	border-bottom: 2px solid #fff;
+	color: #fff;
 	font-size: 36px;
 	line-height: 40px;
 	font-weight: 800;
@@ -170,7 +171,7 @@
 	margin-bottom: 17px;
 }
 .course-name {
-	color: #3b3e42;
+	color: #fff;
 	font-size: 25px;
 	line-height: 30px;
 	font-weight: 800;
@@ -179,7 +180,7 @@
 }
 .certificate-text {
 	text-align: center;
-	color: #747e92;
+	color: #fff;
 	font-size: 14px;
 	line-height:17px;
 }
@@ -195,15 +196,15 @@
 		display: block;
 	}
 	strong {
-		border-bottom: 2px solid $certificate-borders-color;
+		border-bottom: 2px solid #fff;
 		height: 25px;
 		line-height: 25px;
 		font-size: 14px;
-		color: #636466;
+		color: #fff;
 		margin-bottom: 2px;
 	}
 	span {
-		color: #636466;
+		color: #fff;
 		font-size: 10px;
 	}
 }
@@ -229,7 +230,7 @@
 	}
 	strong {
 		position: relative;
-		border-bottom: 2px solid $certificate-borders-color;
+		border-bottom: 2px solid #fff;
 		height: 25px;
 		line-height: 25px;
 		margin-bottom: 2px;
@@ -243,7 +244,7 @@
 		max-width: 120px;
 	}
 	span {
-		color: #636466;
+		color: #fff;
 		font-size: 10px;
 		min-width: 80px;
 	}
@@ -251,9 +252,11 @@
 .certificate-number {
 	display: block;
 	position: absolute;
+	color: #fff;
 	left: 0;
 	bottom: 75px;
 	font-size: 13px;
 	width: 100%;
 	text-align: center;
 }
+
